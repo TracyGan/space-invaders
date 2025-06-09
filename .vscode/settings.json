@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "cstdio": "cpp"
+    },
+    "cSpell.words": [
+        "glfw",
+        "OPENGL",
+        "glew"
+    ]
+}
